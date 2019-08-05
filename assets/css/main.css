@@ -1813,8 +1813,8 @@
 	}
 
 	.image.fit.pfp img {
-    height: 295px;
-    width: 295px;
+    height: 100%;
+    width: 100%;
 	}
 
 	.box .image.fit {
